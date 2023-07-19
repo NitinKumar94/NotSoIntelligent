@@ -10,6 +10,7 @@ intents:
   - bot_challenge
 actions:
   - llm_call
+  - ask_follow_up
 
 responses:
   utter_greet:
